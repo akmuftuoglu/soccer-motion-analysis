@@ -1,3 +1,3 @@
 # soccer-motion-analysis
 
-If you are visiting this link and cannot see anything, I will be updating this repository very shortly.
+If you are visiting this link and cannot see anything, I will be updating this repository very soon!
